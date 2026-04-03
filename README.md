@@ -1,2 +1,2 @@
-# ilu3-coq
-UE Ingénierie Logicielle et Utilisabilité Partie Preuve en Coq
+# ilu3-rocq
+UE Ingénierie Logicielle et Utilisabilité Partie Preuve en Rocq
